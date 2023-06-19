@@ -1,0 +1,15 @@
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\bin\Debug\net7.0\CalculadoraDeSalarios.exe
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\bin\Debug\net7.0\CalculadoraDeSalarios.deps.json
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\bin\Debug\net7.0\CalculadoraDeSalarios.runtimeconfig.json
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\bin\Debug\net7.0\CalculadoraDeSalarios.dll
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\bin\Debug\net7.0\CalculadoraDeSalarios.pdb
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\CalculadoraDeSalarios.csproj.AssemblyReference.cache
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\CalculadoraDeSalarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\CalculadoraDeSalarios.AssemblyInfoInputs.cache
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\CalculadoraDeSalarios.AssemblyInfo.cs
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\CalculadoraDeSalarios.csproj.CoreCompileInputs.cache
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\CalculadoraDeSalarios.dll
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\refint\CalculadoraDeSalarios.dll
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\CalculadoraDeSalarios.pdb
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\CalculadoraDeSalarios.genruntimeconfig.cache
+D:\Recaptulação C#\CalculadoraDeSalarios\CalculadoraDeSalarios\obj\Debug\net7.0\ref\CalculadoraDeSalarios.dll
